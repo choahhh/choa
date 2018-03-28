@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <className>CommandPattern.example.Command.HelpCommand</className>
+    <className>CommandPattern.example.Command.MinimizeCommand</className>
+</config>
